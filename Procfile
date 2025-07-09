@@ -1,1 +1,1 @@
-web: gunicorn Social-Media-Feed-App-Django.wsgi:application
+web: gunicorn social_media_feed.wsgi:application
