@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-#agp#e-&b&n_dk)b#5s_cebj3q2x9(dc^uh9$8dr8u7fpi*3oy
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Social-Media-Feed-App-Django.onrender.com']
 
 
 # Application definition
